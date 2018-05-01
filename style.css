@@ -1,0 +1,75 @@
+
+a{
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 200px;
+}
+.navbar {
+	display: table;   /* Allow the centering to work */
+  margin: 0 auto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  z-index: 5;
+  padding-bottom: 20px; 
+}
+.dropdown-item {
+  font-family: 'Gudea', sans-serif;
+  letter-spacing: 5px;
+}
+.nav-item {
+  margin-left: 0 auto;
+}
+
+.fluid {
+  background-color: white;
+}
+  
+.about-me {
+  margin-top: 100px;
+  /* border: 1px solid #333; */
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+.about-me img{
+  display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+  max-width: 380px;
+  width: 80%;
+  border-radius: 1e3px;
+  border: solid 2px red;
+  margin: center;
+}
+.about-me-title{
+  font-size: 50px;
+}
+.about-me-content{
+  font-size: 20px;
+}
+.about-me-content .btn{
+  padding: 0 auto;;
+}
+.title-cover{
+  font-size: 30px;
+ 
+}
+.deck-1 {
+  background-color: lightgray;
+
+}
+.row  .img{
+  background-position: center;
+}
+.deck-2 {
+  background-color: lightgrey;
+}
+.review{
+  background-color: white;
+}
+.row a{
+  display: table;
+  margin: 0 auto;
+}
+
+.material-icons.md-36 {
+   font-size: 48px; }
